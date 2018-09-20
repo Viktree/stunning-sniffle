@@ -1,0 +1,11 @@
+{
+  "useTabs": false,
+  "tabWidth": 2,
+  "printWidth": 100,
+  "write": true,
+  "singleQuote": true,
+  "semi": false,
+  "jsxBracketSameLine": false,
+  "trailingComma": "none",
+  "import/order": ["error", { "newlines-between": "always-and-inside-groups" }]
+}
